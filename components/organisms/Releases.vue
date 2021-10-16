@@ -1,7 +1,6 @@
 <template>
     <div class="releases">
         <h2>Lançamentos</h2>
-
         <BookList />
     </div>
 </template>

@@ -1,0 +1,35 @@
+{
+  "Logo": {
+    "description": "Auto imported from components/atoms/Logo.vue"
+  },
+  "PageTitle": {
+    "description": "Auto imported from components/atoms/PageTitle.vue"
+  },
+  "Container": {
+    "description": "Auto imported from components/bosons/Container.vue"
+  },
+  "BookCard": {
+    "description": "Auto imported from components/molecules/BookCard.vue"
+  },
+  "BookList": {
+    "description": "Auto imported from components/organisms/BookList.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/organisms/Footer.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/organisms/Header.vue"
+  },
+  "Presentation": {
+    "description": "Auto imported from components/organisms/Presentation.vue"
+  },
+  "Releases": {
+    "description": "Auto imported from components/organisms/Releases.vue"
+  },
+  "AboutTemplate": {
+    "description": "Auto imported from components/templates/AboutTemplate.vue"
+  },
+  "HomeTemplate": {
+    "description": "Auto imported from components/templates/HomeTemplate.vue"
+  }
+}

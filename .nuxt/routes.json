@@ -1,0 +1,16 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "E:\\\\myProjects\\\\iBook\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_2cc91122"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "E:\\\\myProjects\\\\iBook\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_4c80ebe7"
+  }
+]
