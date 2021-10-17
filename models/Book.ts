@@ -10,10 +10,10 @@ interface Page {
 export interface Book {
     id: number,
     author: string,
-    realeseDate: string,
+    releaseDate: string,
     title: string
     description: string,
     cover: string,
-    category: Category[],
+    categories: Category[],
     pages: Page[]
 }

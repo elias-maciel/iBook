@@ -1,15 +1,9 @@
 {
-  "Logo": {
-    "description": "Auto imported from components/atoms/Logo.vue"
-  },
-  "PageTitle": {
-    "description": "Auto imported from components/atoms/PageTitle.vue"
-  },
   "Container": {
     "description": "Auto imported from components/bosons/Container.vue"
   },
-  "BookCard": {
-    "description": "Auto imported from components/molecules/BookCard.vue"
+  "BookDetails": {
+    "description": "Auto imported from components/organisms/BookDetails.vue"
   },
   "BookList": {
     "description": "Auto imported from components/organisms/BookList.vue"
@@ -26,8 +20,32 @@
   "Releases": {
     "description": "Auto imported from components/organisms/Releases.vue"
   },
+  "Chip": {
+    "description": "Auto imported from components/atoms/Chip.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/atoms/Logo.vue"
+  },
+  "PageTitle": {
+    "description": "Auto imported from components/atoms/PageTitle.vue"
+  },
+  "BookCard": {
+    "description": "Auto imported from components/molecules/BookCard.vue"
+  },
+  "BookCategories": {
+    "description": "Auto imported from components/molecules/BookCategories.vue"
+  },
+  "BookCover": {
+    "description": "Auto imported from components/molecules/BookCover.vue"
+  },
+  "BookInfo": {
+    "description": "Auto imported from components/molecules/BookInfo.vue"
+  },
   "AboutTemplate": {
     "description": "Auto imported from components/templates/AboutTemplate.vue"
+  },
+  "BookDetailsTemplate": {
+    "description": "Auto imported from components/templates/BookDetailsTemplate.vue"
   },
   "HomeTemplate": {
     "description": "Auto imported from components/templates/HomeTemplate.vue"

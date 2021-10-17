@@ -7,6 +7,13 @@
     "_name": "_2cc91122"
   },
   {
+    "name": "book-id",
+    "path": "/book/:id?",
+    "component": "E:\\\\myProjects\\\\iBook\\\\pages\\\\book\\\\_id.vue",
+    "chunkName": "pages/book/_id",
+    "_name": "_484c7a06"
+  },
+  {
     "name": "index",
     "path": "/",
     "component": "E:\\\\myProjects\\\\iBook\\\\pages\\\\index.vue",
